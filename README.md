@@ -1,4 +1,4 @@
-# Java-Experiment-8
+# Java-Experiment-6
 # Method Creation
 
 ## Aim:
